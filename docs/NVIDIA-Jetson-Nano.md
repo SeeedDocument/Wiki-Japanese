@@ -22,7 +22,7 @@ NVIDIA®Jetson Nano™開発者キットは、これまでにないサイズと�
 		[Raspberry PiカメラモジュールV2](https://www.seeedstudio.com/Raspberry-Pi-Camera-Module-V2-p-2800.html) はJetson Nanoとうまく動作し、あなたのAIプロジェクトにとって最適なカメラです。 
 
 
-<p style="text-align:center"><a href="https://www.seeedstudio.com/NVIDIA-Jetson-Nano-Development-Kit-p-2916.html" target="_blank"><img src="https://github.com/SeeedDocument/wiki_english/raw/master/docs/images/300px-Get_One_Now_Banner-ragular.png" /></a></p>
+<p style="text-align:center"><a href="https://www.seeedstudio.com/NVIDIA-Jetson-Nano-Development-Kit-p-2916.html" target="_blank"><img src="https://github.com/SeeedDocument/Wiki-Japanese/raw/master/docs/images/jetson.jpg" /></a></p>
 
 
 ## 主な機能 
