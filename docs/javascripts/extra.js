@@ -8,9 +8,9 @@ function checkLanguage() {
       oCNs = document.querySelectorAll('.cn'),
       oENs = document.querySelectorAll('.en'),
       oJPs = document.querySelectorAll('.jp'),
-      cnApi = 'http://wiki.seeedstudio.com/cn' + location.pathname,
-      jpApi = 'http://wiki.seeedstudio.com/jp' + location.pathname,
-      enApi = 'http://wiki.seeedstudio.com' + location.pathname.slice(3);
+      cnApi = 'http://wiki.seeedstudio.com/cn' + location.pathname.replace(/^\/jp/,""),
+      jpApi = 'http://wiki.seeedstudio.com/jp' + location.pathname.replace(/^\/cn/,""),
+      enApi = 'http://wiki.seeedstudio.com' + location.pathname.replace(/^(\/cn|\/jp)/,"");
   if (reg.test(location.href)) {
     isShow(oCNs, 'none');
     isShow(oJPs, 'block',jpApi);
@@ -19,8 +19,7 @@ function checkLanguage() {
     isShow(oJPs, 'none');
     isShow(oCNs, 'block', cnApi);
     isShow(oENs, 'block', enApi);
-  }
-  else {
+  } else {
     isShow(oCNs, 'block', cnApi);
     isShow(oJPs, 'block', jpApi);
     isShow(oENs, 'none');
