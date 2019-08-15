@@ -19,10 +19,10 @@
 # IN THE SOFTWARE.
 
 # Project information
-site_name: Seeed Wiki
-site_description: Seeed Product Document
+site_name: Seeedウィキ（日本語版）
+site_description: Seeedウィキ（日本語版）へようこそ！ここにはSeeedの製品の日本語版資料が備えています
 site_author: Bill
-site_url: http://wiki.seeedstudio.com
+site_url: http://wiki.seeedstudio.com/jp/
 
 # Repository
 repo_name: All Products
@@ -49,7 +49,7 @@ extra:
     accent: indigo
   social:
     - type: facebook
-      link: https://www.facebook.com/seeedstudiosz/
+      link: https://www.facebook.com/seeedstudios/
     - type: github-alt
       link: https://github.com/SeeedDocument
   logo: 'images/favicon.ico'
