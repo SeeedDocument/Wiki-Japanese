@@ -1,8 +1,16 @@
+<title>Seeed 日本語版ウィキ</title>
+<meta name="description" content="Seeedの日本語版ウィキへようこそ！ここにはSeeedの製品の紹介、使い方、または製品に関するドキュメント、仕様、データシート、ソフトウェア、デザインファイルなどの資料が備えています。">
+<meta name="author" content="minxuan">  　
+　　
+　　
+
+Seeedの日本語版ウィキへようこそ！ここにはSeeedの製品の紹介、使い方、または製品に関するドキュメント、仕様、データシート、ソフトウェア、デザインファイルなどの資料が備えています。
+
+!!!Note このサイトは英語バージョンのウィキに基づいて翻訳されたものです。日本語サイトで見つからないページ、また何かご不明な点などがございましたら、 [英語サイト](http://wiki.seeedstudio.com)をご利用下さい。
 
 
+## プラットフォーム
 
-
-##Platform
 
 <p>
 <div class="pic" style="width:33%"><a href="http://wiki.seeedstudio.com/Arduino/"> 
@@ -32,7 +40,7 @@
 </p>
 
 
-##Grove
+## Grove
 
 <p>
 <div class="pic" style="width:33%"><a href="http://wiki.seeedstudio.com/Sensor/"> 
@@ -53,7 +61,7 @@
 </p>
 
 
-##IOT/Maker Pro/Tutorial
+## IOT/Maker Pro/Tutorial
 
 <p>
 <div class="pic" style="width:33%"><a href="http://wiki.seeedstudio.com/IoT/">
@@ -65,12 +73,12 @@
 </p>
 
 
-## Copyright/License
+## 著作権・ライセンス
 -------
-Copyright (c) 2018-2017 Seeed Inc. (https://www.seeedstudio.com). All documents and pictures align with <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>. <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"> </a>. 
+Copyright (c) 2008-2019 Seeed Inc. (https://www.seeedstudio.com)。すべてのドキュメントと写真は、<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>に準拠しています。<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"> </a>
 
-## Tech Support
-Please submit any technical issue into our [forum](http://forum.seeedstudio.com/) 
+## テクニカルサポート
+[フォーラム](http://forum.seeedstudio.com/) でお問い合わせ下さい。
 
 
 

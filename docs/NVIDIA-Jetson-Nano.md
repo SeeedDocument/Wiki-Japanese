@@ -1,7 +1,6 @@
-[_metadata_:title]:- "NVIDIA®Jetson Nano™開発者キットは"
-[_metadata_:description]:- "NVIDIA®Jetson Nano™開発者キットは、これまでにないサイズと強力で最新のAIワークロードに最適な演算能力を提供します。Jetson Nanoを用いれば、画像分類、オブジェクト検出、セグメンテーション、音声処理などのアプリケーション用のAIフレームワークおよびモデルを実行できます。"
-
-
+<title>NVIDIA®Jetson Nano™開発者キットは</title>
+<meta name="description" content="NVIDIA®Jetson Nano™開発者キットは、これまでにないサイズと強力で最新のAIワークロードに最適な演算能力を提供します。Jetson Nanoを用いれば、画像分類、オブジェクト検出、セグメンテーション、音声処理などのアプリケーション用のAIフレームワークおよびモデルを実行できます。">
+<meta name="author" content="シズ">
 
 
 !!!Tip

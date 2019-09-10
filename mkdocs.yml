@@ -20,8 +20,8 @@
 
 # Project information
 site_name: Seeedウィキ（日本語版）
-site_description: Seeedウィキ（日本語版）へようこそ！ここにはSeeedの製品の日本語版資料が備えています
-site_author: Bill
+# site_description: Seeedウィキ（日本語版）へようこそ！ここにはSeeedの製品の日本語版資料が備えています
+# site_author: Bill
 site_url: http://wiki.seeedstudio.com/jp/
 
 # Repository
@@ -100,12 +100,31 @@ pages:
   - プラットフォーム:
       - NVIDIA Jetson Nano:
           - nvidia jetson nano 開発者キット: NVIDIA-Jetson-Nano.md
+      - micro:bit:
+          - Micro:bit紹介: microbit-wiki-Page.md
+          - micro:bit Grove 入門キット: Grove-Inventor-Kit-for-microbit.md
+
+
+
 
   
   - レーダー:
       - Laser Scanners:
           - RPLiDAR A1M8 レーザースキャナー: RPLIDAR-A1M8.md
           - Slamtec Mapper M1M1 ToF レーザースキャナーキット- 20M レンジ: Slamtec-Mapper-M1M1-ToF-20M.md    
+  
+
+
+
+
+  - Grove モジュール:
+      - Grove センサー:
+          - Grove - 超音波レンジャー: Grove-Ultrasonic-Ranger.md
+          - Grove - 温度や湿度センサー: Grove-TemperatureAndHumidity_Sensor.md
+          - Grove - Dust Sensor: Grove-Dust_Sensor.md
+          - Grove - PIRモーションセンサー(Grove - PIR Motion Sensor): Grove-PIR_Motion_Sensor.md
+          - Grove - 酸素センサー(Grove-Gas Sensor O2): Grove-Gas_Sensor-O2.md
+        
 
 
 
