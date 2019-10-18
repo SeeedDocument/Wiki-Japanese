@@ -1,10 +1,7 @@
-<title>NVIDIA®Jetson Nano™開発者キットは</title>
+<title>NVIDIA®Jetson Nano™開発者キット - Seeed Japanese Wiki</title>
 <meta name="description" content="NVIDIA®Jetson Nano™開発者キットは、これまでにないサイズと強力で最新のAIワークロードに最適な演算能力を提供します。Jetson Nanoを用いれば、画像分類、オブジェクト検出、セグメンテーション、音声処理などのアプリケーション用のAIフレームワークおよびモデルを実行できます。">
-<meta name="author" content="シズ">
+<meta name="author" content="sizu">
 
-
-!!!Tip
-		世界中に無料発送サービスを提供しています。
 
 
 
@@ -18,10 +15,10 @@ NVIDIA®Jetson Nano™開発者キットは、これまでにないサイズと�
  
 
 !!!Tip
-		[Raspberry PiカメラモジュールV2](https://www.seeedstudio.com/Raspberry-Pi-Camera-Module-V2-p-2800.html) はJetson Nanoとうまく動作し、あなたのAIプロジェクトにとって最適なカメラです。 
+		[Raspberry PiカメラモジュールV2](https://jp.seeedstudio.com/Raspberry-Pi-Camera-Module-V2-p-2800.html) はJetson Nanoとうまく動作し、あなたのAIプロジェクトにとって最適なカメラです。 
 
 
-<p style="text-align:center"><a href="https://www.seeedstudio.com/NVIDIA-Jetson-Nano-Development-Kit-p-2916.html" target="_blank"><img src="https://github.com/SeeedDocument/Wiki-Japanese/raw/master/docs/images/jetson.jpg" /></a></p>
+<p style="text-align:center"><a href="https://jp.seeedstudio.com/NVIDIA-Jetson-Nano-Development-Kit-p-2916.html" target="_blank"><img src="https://github.com/SeeedDocument/wiki_english/raw/master/docs/images/get_one_now_small.png" width="200" height="38"  border=0 /></a></p>
 
 
 ## 主な機能 
@@ -74,5 +71,5 @@ USB|4x USB 3.0, USB 2.0 Micro-B
 
 
 !!!Note
-		本社は機械学習、コンピュータビジョン、エッジコンピューティング、音声認識とNLP、ニューラルネットワークアクセラレーションなど、幅広いAI関連製品を提供しています。[こちらのページ](https://www.seeedstudio.com/artificial-intelligence-hardware)でご覧下さい。
+		本社は機械学習、コンピュータビジョン、エッジコンピューティング、音声認識とNLP、ニューラルネットワークアクセラレーションなど、幅広いAI関連製品を提供しています。[こちらのページ](https://jp.seeedstudio.com/artificial-intelligence-hardware)でご覧下さい。
 クリエイターからのコメントやフィードバックも歓迎します。 [Seeed](https://forum.seeedstudio.com/viewforum.php?f=110&sid=f16606aa785bbcb99002ec342f25660d)フォーラムにて製品の機能に関するご意見をお聞きください。

@@ -1,9 +1,6 @@
-1 Advanced issues found▲2
-!!!Tip
-		世界中に無料発送サービスを提供しています。
-
-
-
+<title>RPLiDAR A1M8 360 度レーザースキャナーキット - Seeed Japanese Wiki</title>
+<meta name="description" content="PLIDAR A1は、SLAMTECが開発されたローコストの360度2Dレーザースキャナー (LIDAR) ソリューションです。 このシステムは6メートル範囲内で360度のスキャンを実行できます。 生成された2Dポイントクラウドデータは、マッピング、ローカライズ、オブジェクト/環境モデリングに使用できます。 ">
+<meta name="author" content="sizu">
 
 RPLIDAR A1は、SLAMTECが開発されたローコストの360度2Dレーザースキャナー (LIDAR) ソリューションです。 このシステムは6メートル範囲内で360度のスキャンを実行できます。 生成された2Dポイントクラウドデータは、マッピング、ローカライズ、オブジェクト/環境モデリングに使用できます。 
  
@@ -11,7 +8,7 @@ RPLIDAR A1のスキャン周波数は毎回360点をサンプリングすると5
 RPLIDAR A1はレーザー三角測定システムで、日光がなくても部屋内やアウトドアなどの環境により働けます。
 
 
-<p style="text-align:center"><a href="https://www.seeedstudio.com/RPLiDAR-A1M8-360-Degree-Laser-Scanner-Kit-12M-Range.html" target="_blank"><img src="https://github.com/SeeedDocument/Wiki-Japanese/raw/master/docs/images/A1M8.png" /></a></p>
+<p style="text-align:center"><a href="https://jp.seeedstudio.com/RPLiDAR-A1M8-360-Degree-Laser-Scanner-Kit-12M-Range.html" target="_blank"><img src="https://github.com/SeeedDocument/wiki_english/raw/master/docs/images/get_one_now_small.png" width="200" height="38"  border=0 /></a></p>
 
 
 
@@ -19,10 +16,10 @@ RPLIDAR A1はレーザー三角測定システムで、日光がなくても部�
  詳細は下記をご覧ください。
 
 
-[RPLiDAR A2M8 360 度レーザースキャナーキット - 12M レンジ](https://www.seeedstudio.com/RPLiDAR-A2M8-360-Degree-Laser-Scanner-Kit-12M-Range-p-3074.html) 
+[RPLiDAR A2M8 360 度レーザースキャナーキット - 12M レンジ](https://jp.seeedstudio.com/RPLiDAR-A2M8-360-Degree-Laser-Scanner-Kit-12M-Range-p-3074.html) 
  
 
-[RPLiDAR A2M6 360 度レーザースキャナーキット - 18M レンジ](https://www.seeedstudio.com/RPLiDAR-A2M6-360-Degree-Laser-Scanner-Kit-18M-Range-p-3073.html)
+[RPLiDAR A2M6 360 度レーザースキャナーキット - 18M レンジ](https://jp.seeedstudio.com/RPLiDAR-A2M6-360-Degree-Laser-Scanner-Kit-18M-Range-p-3073.html)
 
 
 ## RPLIDAR　A1M8 詳細情報

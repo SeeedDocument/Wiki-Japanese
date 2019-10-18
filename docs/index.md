@@ -1,12 +1,13 @@
-<title>Seeed 日本語版ウィキ</title>
+<title>Seeed 日本語版ウィキ - Seeed Japanese Wiki</title>
 <meta name="description" content="Seeedの日本語版ウィキへようこそ！ここにはSeeedの製品の紹介、使い方、または製品に関するドキュメント、仕様、データシート、ソフトウェア、デザインファイルなどの資料が備えています。">
-<meta name="author" content="minxuan">  　
+<meta name="author" content="sizu">  　
 　　
 　　
 
 Seeedの日本語版ウィキへようこそ！ここにはSeeedの製品の紹介、使い方、または製品に関するドキュメント、仕様、データシート、ソフトウェア、デザインファイルなどの資料が備えています。
 
-!!!Note このサイトは英語バージョンのウィキに基づいて翻訳されたものです。日本語サイトで見つからないページ、また何かご不明な点などがございましたら、 [英語サイト](http://wiki.seeedstudio.com)をご利用下さい。
+※ご注意
+ このサイトは英語バージョンのウィキに基づいて翻訳されたものです。日本語サイトで見つからないページ、また何かご不明な点などがございましたら、[英語サイト](http://wiki.seeedstudio.com)をご利用下さい。
 
 
 ## プラットフォーム
@@ -89,4 +90,4 @@ Copyright (c) 2008-2019 Seeed Inc. (https://www.seeedstudio.com)。すべての�
 }
 </style>
 
-<br /><p style="text-align:center"><a href="https://www.seeedstudio.com/act-4.html?utm_source=wiki&utm_medium=wikibanner&utm_campaign=newproducts" target="_blank"><img src="https://github.com/SeeedDocument/Wiki_Banner/raw/master/new_product.jpg" /></a></p>
+<br /><p style="text-align:center"><a href="https://jp.seeedstudio.com/act-4.html?utm_source=wiki&utm_medium=wikibanner&utm_campaign=newproducts" target="_blank"><img src="https://github.com/SeeedDocument/Wiki_Banner/raw/master/new_product.jpg" /></a></p>

@@ -1,14 +1,13 @@
-!!!Tip
-		この商品のプリセール期間限定価格（2019年7月26日〜2019年8月15日）は199ドルで、世界中にDHL無料発送サービスを提供しています。プリセール完了後は通常価格の249ドルに回復されます。
-		　　 
-		
+<title>Slamtec Mapper M1M1 ToF レーザーマッピングセンサー - Seeed Japanese Wiki</title>
+<meta name="description" content="Slamtec Mapper M1M1 ToF laser mapping sensorはSlamtec社製のレーザーマッピングセンサーです。M1M1は高品質のマッピング、リアムタイムのローカライゼーション、またはナビゲーション機能を備えており、自宅や職場に簡単にマッピングできます。">
+<meta name="author" content="sizu">
 
 ![enter image description here](https://raw.githubusercontent.com/SeeedDocument/Slamtec/master/img/M1M1%20EN/M1M1-EN_01.png)
 
 
 
 
-<p style="text-align:center"><a href="https://www.seeedstudio.com/Slamtec-Mapper-M1M1-ToF-Laser-Screen-Kit-20M-Range-p-4130.html" target="_blank"><img src="https://github.com/SeeedDocument/wiki_english/raw/master/docs/images/300px-Get_One_Now_Banner-ragular.png" /></a></p>
+<p style="text-align:center"><a href="https://jp.seeedstudio.com/Slamtec-Mapper-M1M1-ToF-Laser-Screen-Kit-20M-Range-p-4130.html" target="_blank"><img src="https://github.com/SeeedDocument/wiki_english/raw/master/docs/images/300px-Get_One_Now_Banner-ragular.png" /></a></p>
 　　Slamtec Mapper M1M1 ToF laser mapping sensorはSlamtec社製のレーザーマッピングセンサーです。M1M1は高品質のマッピング、リアムタイムのローカライゼーション、またはナビゲーション機能を備えており、自宅や職場に簡単にマッピングできます。また、インドアとアウトドアのマッピングや、100,000m²を超える大規模な作業シナリオなどもサポートできます。 ロボットの位置確認とナビゲーション、環境調査とマッピングなどに最適なレーザースキャナです。
 　　M1M1は高性能なSLAMTEC第3世代SLAMエンジンを搭載しており、5cmの解像度で最大20メートルまで検出でき、再ローカライゼーションの精度は0.02m以下です。さらに、SLAMTEC M1M1は非常に使いやすいです。SLAMTECフルクロスプラットフォームSDKとツール（携帯向け・PC向け）が備えており、USBケーブルで M1M1をコンピュータに接続することだけで操作出来ます。
 

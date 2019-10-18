@@ -1,4 +1,4 @@
-<title>micro:bit Grove 入門キット (Grove Inventor Kit for micro:bit)</title>
+<title>マイクロビット用Grove入門キット - Grove Inventor Kit for micro:bit - Seeed Japanese Wiki</title>
 <meta name="description" content="BBC micro:bitはマイクロコンピュータの一種です。これを使えば、エレクトリックやコーディングに関する知識が少なくとも、使用者は創造性を生かすことがよくできます。しかし、創造性を生かすには、BBC micro:bitだけを使っては不十分です。そのため、BBC micro:bit に最適なGrove Inventor Kit をお薦めします。">
 <meta name="author" content="minxuan">
 
@@ -226,6 +226,6 @@ Micro:bitは、JavaScriptブロックエディターや、Python Editorという
   [**Grove Shield for microbit_eagle file.zip**](https://github.com/SeeedDocument/Bazzar_Attachment/raw/master/103030195/202001587_Grove%20Shield%20for%20BBC%20microbit%20V1.2_eagle%20file.zip)
 
 ## 技術サポート
-何かご不明な点がございましたら、 [フォーラム](http://forum.seeedstudio.com/)でお問い合わせ下さい。 <br /><p style="text-align:center"><a href="https://www.seeedstudio.com/act-4.html?utm_source=wiki&utm_medium=wikibanner&utm_campaign=newproducts" target="_blank"><img src="https://github.com/SeeedDocument/Wiki_Banner/raw/master/new_product.jpg" /></a></p>
+何かご不明な点がございましたら、 [フォーラム](http://forum.seeedstudio.com/)でお問い合わせ下さい。 <br /><p style="text-align:center"><a href="https://jp.seeedstudio.com/act-4.html?utm_source=wiki&utm_medium=wikibanner&utm_campaign=newproducts" target="_blank"><img src="https://github.com/SeeedDocument/Wiki_Banner/raw/master/new_product.jpg" /></a></p>
   
   ※このページは英語バージョンのウィキに基づいて翻訳されたものです。何かご不明な点などございましたら、英語バージョンをご参考下さい。
